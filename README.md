@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFD60A&height=120&section=header">
+![image Alt](https://github.com/Dev-Maykon/Dev-Maykon/blob/main/GitbannerStart.gif?raw=true)
 
 
 
@@ -7,7 +7,6 @@
 
 
 
-[![Maykon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dev-Maykon&bg_color=000000&color=ffd60a&line=ffd60a&point=ffd60a&area=true&hide_border=true)](https://github.com/Dev-Maykon)
 
 
 ### Main skills:
@@ -30,10 +29,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=white&labelColor=0D1117&textColor=white)&nbsp; 
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117&textColor=white)&nbsp;
 
-<!-- <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MatheusAlvarez}/count.svg" /></p> 
-<br></div> -->
+[![Maykon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dev-Maykon&bg_color=000000&color=FFFFFF&line=FFD60A&point=FFD60A&area=true&area_color=000000&hide_border=true)](https://github.com/Dev-Maykon)
+![image Alt](https://github.com/Dev-Maykon/Dev-Maykon/blob/main/Bannerend.gif?raw=true)
 
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFD60A&height=120&section=footer"/>
