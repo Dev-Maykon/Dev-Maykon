@@ -1,34 +1,64 @@
 ![image Alt](https://github.com/Dev-Maykon/Dev-Maykon/blob/main/GitbannerStart.gif?raw=true)
 
+<h2 align="center"> <em>──────── About  me ────────</em></h2>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=30&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Maykon+Rodrigues,+a+Brazilian+developer;I+build+sites+and+turn+ideas+into+business!;Studying+Systems+to+the+Internet+in+Senac!:%29)](https://git.io/typing-svg)
+
+<div>
+<img
+    align="left"
+    width="390"
+    src="https://github.com/Dev-Maykon/Dev-Maykon/blob/main/pc-pixel.png?raw=true"/>
+    
+<div align="center">
+<br>
+<b>Who Am I?</b>
+</div>
+
+<div align="justify">
+</br>
+I'm currently on the journey to becoming a **Full Stack Developer**
+and **Game Tester**.
+
+I'm constantly learning new `technologies`, `improving my skills`,
+and taking on `new challenges` because I believe technology is an
+ever-evolving field.
+
+I enjoy solving problems, building `creative solutions`,
+and ensuring software quality.
+Outside of coding, I'm a huge video game enthusiast who loves
+discovering new challenges, both in `games and in technology`.
+
+</div>
+
+<br><br><br><br>
+<h2 align="center"> <em>──────── Languages & Tools I Have Placed My Hands On ────────</em></h2>
+<div align="center">
+  <br>
+  <img src="https://skillicons.dev/icons?i=html,css,vscode,js,php,wordpress,github,git,notion,figma,discord,gmail,linkedin,python,mysql" /><br><br>
+</div>
+<br>
+
+<div>
+<img
+    align="right"
+    width="390"
+    src="https://github.com/Dev-Maykon/Dev-Maykon/blob/main/myhardskills.png?raw=true"/>
+<div align="center">
+
+<div align="justify">
+  <br><br><br><br>
+  This GitHub showcases my projects in Game Quality Assurance, programming, and Web Development.
+  You'll find QA documentation, bug reports, test cases, coding exercises, and web applications built while expanding my knowledge and gaining hands-on experience.
+</br>
 
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFC300&size=30&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Maykon+Rodrigues,+a+Brazilian+developer;I+build+designs+and+turn+ideas+into+business!;Studying+Systems+to+the+Internet+in+Senac!:%29)](https://git.io/typing-svg)
-
-
-
-
-
-### Main skills:
-![QA](https://img.shields.io/badge/-QA_Tester-0D1117?style=for-the-badge&logo=educative&labelColor=0D1117&textColor=0D1117)&nbsp;
-![HelpDesk](https://img.shields.io/badge/-HelpDesk-0D1117?style=for-the-badge&logo=react&logoColor=white&labelColor=0D1117&textColor=white)&nbsp;
-### Tools:
-![JIRA](https://img.shields.io/badge/-Jira-0D1117?style=for-the-badge&logo=jira&logoColor=white&labelColor=0D1117&textColor=white)&nbsp;
-![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma&logoColor=white&labelColor=0D1117&textColor=white)&nbsp;
-![Microsoft_Office](https://img.shields.io/badge/-Microsoft_Office-0D1117?style=for-the-badge&logo=onlyoffice&logoColor=white&labelColor=0D1117&textColor=white)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&logoColor=white&labelColor=0D1117&textColor=white)&nbsp;
-![Github](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&textColor=white)&nbsp;
-![AI](https://img.shields.io/badge/-AI-0D1117?style=for-the-badge&logo=probot&logoColor=white&labelColor=0D1117&textColor=white)&nbsp;
-
-### languages:
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&logoColor=white&labelColor=0D1117&textColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css3&logoColor=white&labelColor=0D1117&textColor=white)&nbsp;
-
-### Studying:
-![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0D1117&textColor=white)&nbsp; 
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=white&labelColor=0D1117&textColor=white)&nbsp; 
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117&textColor=white)&nbsp;
+</br>
+</div>
+</br></br></br></br></br>
+<h2 align="center"> <em>──────── My contruibutions ────────</em></h2>
+</br>
 
 [![Maykon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dev-Maykon&bg_color=000000&color=FFFFFF&line=FFD60A&point=FFD60A&area=true&area_color=000000&hide_border=true)](https://github.com/Dev-Maykon)
-![image Alt](https://github.com/Dev-Maykon/Dev-Maykon/blob/main/Bannerend.gif?raw=true)
+![image Alt](https://github.com/Dev-Maykon/Dev-Maykon/blob/main/bannerEnd.gif?raw=true)
 
