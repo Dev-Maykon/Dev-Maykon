@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="900"
+     height="180"
+     viewBox="0 0 900 180">
+
+<style>
+
+text{
+    fill:#FFFFFF;
+    font-family:monospace;
+    font-size:18px;
+}
+
+.cursor{
+    animation:blink 1s infinite;
+}
+
+@keyframes blink{
+    50%{
+        opacity:0;
+    }
+}
+
+</style>
+
+<rect
+width="100%"
+height="100%"
+fill="transparent"/>
+
+<text x="20" y="35">
+
+<tspan>
+C:\> boot maykon.os
+</tspan>
+
+<tspan x="20" dy="28">
+Initializing system...
+</tspan>
+
+<tspan x="20" dy="28">
+Loading profile.............OK
+</tspan>
+
+<tspan x="20" dy="28">
+Loading repositories........OK
+</tspan>
+
+<tspan x="20" dy="28">
+Welcome, visitor.
+</tspan>
+
+<tspan class="cursor">█</tspan>
+
+</text>
+
+</svg>
